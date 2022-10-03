@@ -9,9 +9,6 @@
   <br>
 </p>
 
-### 🎨 Current project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adil-nauruzbaev&repo=Friflex&theme=darcula&hide_border=true)](https://github.com/adil-nauruzbaev/My_UI_Apps)
-
 ### 💻 My blog:
 <p align="left">
   &nbsp;
